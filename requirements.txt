@@ -1,3 +1,4 @@
+cmd=lalamove
 absl-py==0.13.0
 albumentations==1.0.3
 argon2-cffi==20.1.0
